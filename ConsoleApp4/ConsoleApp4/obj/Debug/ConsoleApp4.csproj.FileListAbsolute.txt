@@ -1,0 +1,7 @@
+D:\Abhay\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Abhay\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Abhay\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Abhay\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Abhay\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Abhay\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Abhay\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
