@@ -1,0 +1,7 @@
+D:\Abhay\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+D:\Abhay\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+D:\Abhay\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+D:\Abhay\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.AssemblyReference.cache
+D:\Abhay\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache
+D:\Abhay\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+D:\Abhay\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
