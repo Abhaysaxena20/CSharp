@@ -1,0 +1,7 @@
+D:\Abhay\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+D:\Abhay\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+D:\Abhay\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+D:\Abhay\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.AssemblyReference.cache
+D:\Abhay\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+D:\Abhay\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+D:\Abhay\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
