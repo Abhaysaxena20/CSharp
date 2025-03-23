@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abhay\\ConsoleApp17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B147F6F-024B-4811-B0D7-0BC23D849674}|ConsoleApp17\\ConsoleApp17.csproj|d:\\abhay\\consoleapp17\\consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B147F6F-024B-4811-B0D7-0BC23D849674}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abhay\\ConsoleApp17\\ConsoleApp17\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\Program.cs",
+              "ToolTip": "D:\\Abhay\\ConsoleApp17\\ConsoleApp17\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp17\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:17:42.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
