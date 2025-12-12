@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\models\\useremployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\useremployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\models\\mergemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\mergemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\views\\ajax\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ajax\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\views\\ajax\\useremployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ajax\\useremployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\migrations\\20251114105135_goals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251114105135_goals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\migrations\\20251121095629_addingemptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251121095629_addingemptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\migrations\\20251121100052_addinguseremptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251121100052_addinguseremptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\downloads\\collegeadmissionmanagementsystem-master\\assemblyproj\\assemblyproj\\webapplication1\\webapplication1\\migrations\\20251121095041_role2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F514-2F0A-4740-BED5-6DB544B3FAA6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251121095041_role2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\custom.js",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAuwMIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T01:00:33.637Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Ajax\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Ajax\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T00:56:00.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AjaxController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Controllers\\AjaxController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AjaxController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Controllers\\AjaxController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AjaxController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAnwGcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:44:56.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MergeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Models\\MergeModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MergeModel.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Models\\MergeModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MergeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:44:10.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Models\\UserEmployees.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UserEmployees.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Models\\UserEmployees.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UserEmployees.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:42:54.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:45:37.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Views\\Ajax\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Ajax\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Views\\Ajax\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Ajax\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T14:04:01.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:47:23.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251121095629_addingEmpTable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Migrations\\20251121095629_addingEmpTable.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251121095629_addingEmpTable.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Migrations\\20251121095629_addingEmpTable.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20251121095629_addingEmpTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:56:29.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251121100052_addingUserEmpTable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Migrations\\20251121100052_addingUserEmpTable.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251121100052_addingUserEmpTable.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Migrations\\20251121100052_addingUserEmpTable.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20251121100052_addingUserEmpTable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:00:52.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251121095041_role2.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Migrations\\20251121095041_role2.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251121095041_role2.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Migrations\\20251121095041_role2.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20251121095041_role2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:50:42.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T10:47:32.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T13:26:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserEmployees.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Views\\Ajax\\UserEmployees.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Ajax\\UserEmployees.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Views\\Ajax\\UserEmployees.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Ajax\\UserEmployees.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T13:06:32.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T09:02:24.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251114105135_goals.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Migrations\\20251114105135_goals.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251114105135_goals.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\Migrations\\20251114105135_goals.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20251114105135_goals.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:51:35.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\CollegeAdmissionManagementSystem-master\\assemblyproj\\assemblyproj\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-14T11:08:02.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
