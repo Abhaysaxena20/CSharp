@@ -1,0 +1,35 @@
+﻿@model WebApplication3.Models.MergeModel
+<html>
+<head>
+	@* <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" /> *@
+	<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    	<div style="display:flex;justify-content:space-evenly;align-items:center">
+		@foreach (var res in Model.category)
+		{
+			<div class="card" style="width: 12rem;">
+				<a asp-route-id="@res.Id"><img src="~/@res.Image" class="card-img-top" alt="..."></a>
+				<div class="card-body">
+					<p class="card-text">@res.Name</p>
+					<p class="card-text">@res.Description</p>
+				</div>
+			</div>
+						
+		}
+		</div>
+	<div style="display:flex;justify-content:space-around;align-items:center">
+		@foreach (var res in Model.products)
+		{
+			<div class="card" style="width: 12rem;">
+				<img src="~/@res.Image" class="card-img-top" alt="...">
+				<div class="card-body">
+					<p class="card-text">@res.Name</p>
+					<p class="card-text">@res.Description</p>
+				</div>
+			</div>
+		}
+	</div>
+</body>
+</html>
+

@@ -1,0 +1,78 @@
+﻿@{
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Simple Navbar</title>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <style>
+            /* Basic Reset */
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            /* Navbar container */
+            .navbar {
+                background-color: #333;
+                overflow: hidden;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                padding: 14px 0;
+            }
+
+                /* Navbar links */
+                .navbar a {
+                    color: white;
+                    text-decoration: none;
+                    padding: 12px 20px;
+                    font-size: 17px;
+                    transition: background-color 0.3s ease;
+                }
+
+                    /* Hover effect */
+                    .navbar a:hover {
+                        background-color: #575757;
+                        border-radius: 5px;
+                    }
+
+            /* Responsive design */ {
+               .navbar 
+            { 
+                flex-direction: column; 
+            } 
+
+            .navbar a {
+                padding: 10px;
+                width: 100%;
+                text-align: center;
+            }
+
+            }
+        </style>
+    </head>
+    <body>
+
+        <nav class="navbar">
+            <a href="/Personal/Home">Home</a>
+            <a href="/Personal/About">About</a>
+            <a href="/Personal/Category">Category</a>
+            <a href="/Personal/Products">Products</a>
+            <a href="/Personal/Employee">Employee</a>
+        </nav>
+
+     <div class="container"> 
+         <main role="main" class="pb-3"> 
+             @RenderBody() 
+         </main> 
+     </div>
+    @await RenderSectionAsync("Scripts", required: false)
+</body> 
+</html>

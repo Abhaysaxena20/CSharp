@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abhay\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\controllers\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\bhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\bhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\views\\personal\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\personal\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\migrations\\20250526055352_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\migrations\\20250526055352_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\views\\personal\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\personal\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\models\\vm\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\vm\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\views\\personal\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\personal\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\views\\personal\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\personal\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|d:\\abhay\\webapplication3\\webapplication3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08745400-6E66-4341-BB38-1FD0B468EF42}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bhang.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Bhang.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Bhang.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Bhang.cs",
+              "RelativeToolTip": "WebApplication3\\Bhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:37:09.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonalController.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Controllers\\PersonalController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\PersonalController.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Controllers\\PersonalController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\PersonalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:51:41.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\VM\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\VM\\CategoryVM.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\VM\\CategoryVM.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\VM\\CategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:56:07.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Personal\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Personal\\Home.cshtml",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Personal\\Home.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Personal\\Home.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T19:34:27.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T05:03:42.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:31:12.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250526055352_m1.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Migrations\\20250526055352_m1.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\20250526055352_m1.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Migrations\\20250526055352_m1.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\20250526055352_m1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:47:21.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:50:31.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:50:49.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T19:47:37.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Personal\\Category.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Personal\\Category.cshtml",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Personal\\Category.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Personal\\Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T19:35:26.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:56:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ApplicationContext.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ApplicationContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:59:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Category.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:22:10.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Personal\\Products.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Personal\\Products.cshtml",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Personal\\Products.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Personal\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T19:35:52.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Products.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\Products.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:21:20.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Personal\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Personal\\EditProduct.cshtml",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Views\\Personal\\EditProduct.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Personal\\EditProduct.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T20:00:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Employee.cs",
+              "ToolTip": "D:\\Abhay\\WebApplication3\\WebApplication3\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:40:59.291Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+﻿@model WebApplication3.Models.ProductVM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Edit product Here</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <style>
+        div{
+            padding:0%;
+            font-display:block;
+        }
+        .container{
+            background-color:blue;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Edit product</h2>
+        <form asp-action="EditProduct" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="name" class="form-label">Category Name</label>
+                <input type="text" class="form-control" name="name" asp-for="Name">
+                <span class="text-danger" asp-validation-for="Name"></span>
+            </div>
+            <div class="mb-3">
+                <label for="productCategory" class="form-label">Category</label>
+                <select class="form-select" id="productCategory" name="Category"asp-for="Category">
+                    @foreach (var row in ViewBag.Category)
+                    {
+                        <option value="@row.Id">@row.Name</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="Category"></span>
+                </div>
+                <div class="mb-3">
+                <label for="Image" class="form-label">Image</label>
+                <input type="file" class="form-control" name="Image" asp-for="Image">
+                <span class="text-danger" asp-validation-for="Image"></span>
+            </div>
+            <div class="mb-3">
+                <label for="description" class="form-label">Description</label>
+                <input type="text" class="form-control" name="description" asp-for="Description">
+                <span class="text-danger" asp-validation-for="Description"></span>
+            </div>
+            <button class="btn btn-success">Submit</button>
+        </form>
+    </div>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</body>
+</html>

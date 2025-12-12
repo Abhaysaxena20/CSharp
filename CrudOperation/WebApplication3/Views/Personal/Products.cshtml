@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WebApplication3.Models.Products>
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<a class="btn btn-info" asp-action="AddProduct">Add new Product</a>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Category</th>
+			<th>Image</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var row in Model)
+		{
+			<tr>
+				<td>@row.Id</td>
+				<td>@row.Name</td>
+				<td>@row.Description</td>
+				<td>@row.category.Name</td>
+				<td>
+					<img height="60" width="60" src="~/@row.Image"alt="No Image" />
+				</td>
+				<td>
+					<a class="btn btn-warning"asp-action="EditProduct" asp-route-id= "@row.Id" onclick="return confirm('Are you sure you want to edit')">Edit</a>
+					<a class="btn btn-danger " asp-action="DeleteProduct" asp-route-id="@row.Id" onclick="return confirm('Are you sure you want to delete')">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
